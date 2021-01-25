@@ -1,0 +1,25 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishprabhu26/NodeJS-Crash-Course.git"
+  },
+  "author": "Nitish Prabhu Kota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitishprabhu26/NodeJS-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/nitishprabhu26/NodeJS-Crash-Course#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
